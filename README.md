@@ -4,6 +4,16 @@ Este é o site aberto com o material da disciplina "Blockchain, criptomoedas e t
 Esta disciplina foi construída com o apoio da [Decentralization Foundation](https://d24n.org) e da [Ripple](https://ripple.com) (por meio da University Blockchain Research Initiative).
 
 As video-aulas estão disponíveis no [youtube](https://www.youtube.com/playlist?list=PLcbbqdJgPgcXlRlPNHF2itTotEwr9kckl).
+
+<details>
+  <summary>images</summary>
+
+![Image1](https://gist.github.com/assets/97279763/4eb87d13-17b1-4384-bfc6-ba3369bc7223)
+
+![Image2](https://gist.github.com/assets/97279763/4eb87d13-17b1-4384-bfc6-ba3369bc7223)
+
+</details>
+
 <br>
 <br>
 ## Slides das aulas (com as referências)
