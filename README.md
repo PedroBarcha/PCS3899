@@ -83,9 +83,12 @@ Atualmente, para realizar as atividades de Hyperledger Fabric é necessário uti
 ## Roteiros
 ### Roteiros oficiais (criados pelo professor)
 [Tor](roteiros/Roteiro Tor.pdf)
+
 [BitTorrent](roteiros/Roteiro BitTorrent.pdf)
 
 ### Roteiros criados por alunos
 [Programação de Onion Route simulada](roteiros/Construindo+o+próprio+onion+routing.zip)
+
 [Inserindo e recuperando arquivos no IPFS](roteiros/Roteiro+IPFS.pdf)
+
 [Explorando conceitos em uma blockchain simples](roteiros/Roteiro+Explorando conceitos em uma blockchain simples.pdf)
