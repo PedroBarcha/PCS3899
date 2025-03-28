@@ -60,7 +60,7 @@ Atualmente, para realizar as atividades de Hyperledger Fabric é necessário uti
 
 2. Extraia o ZIP. O resutlado deve ser uma pasta chamada VM com dois arquivos: ubuntu.vdi e ubuntu.vbox.
 
-3. Siga as ![instruções](https://www.youtube.com/watch?v=4aKbthqxKEY&list=PLcbbqdJgPgcXlRlPNHF2itTotEwr9kckl&index=23)
+3. Siga as [instruções](https://www.youtube.com/watch?v=4aKbthqxKEY&list=PLcbbqdJgPgcXlRlPNHF2itTotEwr9kckl&index=23)
 
 **OBS**: Para usuários de **Mac com chip M2**, talvez ainda não haja suporte oficial do VirtualBox (a verificar). Neste caso, o recomendado é utilizar outra máquina.
 
