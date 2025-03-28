@@ -8,11 +8,7 @@ As video-aulas estão disponíveis no [youtube](https://www.youtube.com/playlist
 ## Slides das aulas (com as referências)
 [1a. Intro](slides/1a. Intro.pdf)
 
-[1a. Intro](slides/1a. Intro.pdf)
-
 [1b. Intro - Classificação P2P](slides/1b. Intro - Classificação P2P.pdf)
-
-[1a. Intro](slides/1a. Intro.pdf)
 
 [2a. Fundamentos de Criptografia - Serviços de Segurança](slides/2a. Fundamentos de Criptografia - Serviços Segurança.pdf)
 
@@ -69,8 +65,8 @@ OBS: Para usuários de Mac com chip M2, talvez ainda não haja suporte oficial d
 OBS2: Ao utilizar a VM, é possível que o script init, introduzido no vídeo 2.2, não execute conforme esperado. Isso pode ocorrer devido a conflitos gerados ao se interromper abruptamente a inicialização dos containers docker. Nesse caso, execute no terminal: docker system prune --volumes --force &&  docker rmi $(docker images -q)
 
 
-### Slides dos vídeos (com as referências)
-[](fabric/)
+### Slides (com as referências)
+[1.1 Intro Curso](fabric/1.1 Intro Curso.pptx)
 [](fabric/)
 [](fabric/)
 [](fabric/)
