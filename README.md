@@ -7,7 +7,7 @@ As video-aulas estão disponíveis no [youtube](https://www.youtube.com/playlist
 <br>
 <br>
 <details>
-<summary><h2>Slides das aulas (com as referências)</h2><summary>
+<summary><h2>Slides das aulas (com as referências)</h2></summary>
 [1a. Intro](slides/1a. Intro.pdf)
 
 [1b. Intro - Classificação P2P](slides/1b. Intro - Classificação P2P.pdf)
