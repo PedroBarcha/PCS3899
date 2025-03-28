@@ -1,9 +1,9 @@
 # Blockchain, Criptomoedas & Tecnologias Decentralizadas
 Este é o site aberto com o material da disciplina "Blockchain, criptomoedas e tecnologias descentralizadas", oferecida como parte do currículo de Engenharia de Computação da USP desde Ago/2023, e também como uma disciplina aberta para qualquer interessado. Este é um site em contínua evolução, que deve ser atualizado juntamente com atualizações feitas na disciplina oficial: novas video-aulas, slides etc.
 
-Esta disciplina foi construída com o apoio da [Decentralization Foundation](https://d24n.org) e da [Ripple](https://ripple.com) (por meio da University Blockchain Research Initiative)
+Esta disciplina foi construída com o apoio da [Decentralization Foundation](https://d24n.org) e da [Ripple](https://ripple.com) (por meio da University Blockchain Research Initiative).
 
-As video-aulas estão disponíveis no [youtube](https://www.youtube.com/playlist?list=PLcbbqdJgPgcXlRlPNHF2itTotEwr9kckl)
+As video-aulas estão disponíveis no [youtube](https://www.youtube.com/playlist?list=PLcbbqdJgPgcXlRlPNHF2itTotEwr9kckl).
 
 ## Slides das aulas (com as referências)
 [1a. Intro](slides/1a. Intro.pdf)
@@ -20,23 +20,23 @@ As video-aulas estão disponíveis no [youtube](https://www.youtube.com/playlist
 
 [2e. Fundamentos de Criptografia - Construções Avançadas](slides/2e. Fundamentos de Criptografia - Construções Avançadas.pdf)
 
-[3a. BlockChain sem Hype - Motivacao](slides/3a. BlockChain sem Hype-Motivacao.pdf)
+[3a. Blockchain sem Hype - Motivacao](slides/3a. BlockChain sem Hype-Motivacao.pdf)
 
-[3b. BlockChain sem Hype - Blockchains](slides/3b. BlockChain sem Hype-Blockchains.pdf)
+[3b. Blockchain sem Hype - Blockchains](slides/3b. BlockChain sem Hype-Blockchains.pdf)
 
-[3c. BlockChain sem Hype - Logs Transparentes (v3)](slides/3c. BlockChain sem Hype-Logs Transparentes - v3.pdf)
+[3c. Blockchain sem Hype - Logs Transparentes (v3)](slides/3c. BlockChain sem Hype-Logs Transparentes - v3.pdf)
 
-[3d. BlockChain sem Hype - Considerações](slides/3d. BlockChain sem Hype-Considerações.pdf)
+[3d. Blockchain sem Hype - Considerações](slides/3d. BlockChain sem Hype-Considerações.pdf)
 
-[3e. BlockChain sem Hype - Aplicações](slides/3e. BlockChain sem Hype-Aplicações.pdf)
+[3e. Blockchain sem Hype - Aplicações](slides/3e. BlockChain sem Hype-Aplicações.pdf)
 
-[3f. BlockChain sem Hype - Aplicacoes, mas não](slides/3f. BlockChain sem Hype-Aplicacoes, mas não.pdf)
+[3f. Blockchain sem Hype - Aplicacoes, mas não](slides/3f. BlockChain sem Hype-Aplicacoes, mas não.pdf)
 
-[3g. BlockChain sem Hype - Privacidade](slides/3g. BlockChain sem Hype-Privacidade.pdf)
+[3g. Blockchain sem Hype - Privacidade](slides/3g. BlockChain sem Hype-Privacidade.pdf)
 
-[3h. BlockChain sem Hype - Forks](slides/3h. BlockChain sem Hype - Forks.pdf)
+[3h. Blockchain sem Hype - Forks](slides/3h. BlockChain sem Hype - Forks.pdf)
 
-[3z. (Bônus) BlockChain sem Hype- Criptomoedas e crimes (v2)](slides/3z. (Bônus) BlockChain sem Hype- Criptomoedas e crimes - v2.pdf)
+[3z. (Bônus) Blockchain sem Hype- Criptomoedas e crimes (v2)](slides/3z. (Bônus) BlockChain sem Hype- Criptomoedas e crimes - v2.pdf)
 
 [4a. Universo descentralizado - Tor](slides/4a. Universo descentralizado - Tor.pdf)
 
@@ -60,9 +60,9 @@ Atualmente, para realizar as atividades de Hyperledger Fabric é necessário uti
 
 3. Siga as instruções: https://www.youtube.com/watch?v=4aKbthqxKEY&list=PLcbbqdJgPgcXlRlPNHF2itTotEwr9kckl&index=23
 
-OBS: Para usuários de Mac com chip M2, talvez ainda não haja suporte oficial do VirtualBox (a verificar). Neste caso, o recomendado é utilizar outra máquina.
+*OBS*: Para usuários de *Mac com chip M2*, talvez ainda não haja suporte oficial do VirtualBox (a verificar). Neste caso, o recomendado é utilizar outra máquina.
 
-OBS2: Ao utilizar a VM, é possível que o script init, introduzido no vídeo 2.2, não execute conforme esperado. Isso pode ocorrer devido a conflitos gerados ao se interromper abruptamente a inicialização dos containers docker. Nesse caso, execute no terminal: docker system prune --volumes --force &&  docker rmi $(docker images -q)
+*OBS2*: Ao utilizar a VM, é possível que o script init, introduzido no vídeo 2.2, não execute conforme esperado. Isso pode ocorrer devido a conflitos gerados ao se interromper abruptamente a inicialização dos containers docker. Nesse caso, execute no terminal: docker system prune --volumes --force &&  docker rmi $(docker images -q)
 
 
 ### Slides (com as referências)
