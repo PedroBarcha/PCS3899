@@ -66,19 +66,19 @@ OBS2: Ao utilizar a VM, é possível que o script init, introduzido no vídeo 2.
 
 
 ### Slides (com as referências)
-[1.1 Intro Curso](fabric/1.1 Intro Curso.pptx)
-[](fabric/)
-[](fabric/)
-[](fabric/)
-[](fabric/)
-[](fabric/)
+[1.1 Intro Curso](fabric/1.1 Intro Curso.pdf)
+[1.2 Intro HLF](fabric/1.2 Intro HLF.pdf)
+[2.1 Instalação](fabric/2.1 Instalação.pdf)
+[3.1 Chaincode - Contratos Inteligentes](fabric/3.1 Chaincode - Contratos Inteligentes.pdf)
+[3.2 - API com Node.js](fabric/3.2 - API com Node.js.pdf)
+[4.1 Padrões ERC](fabric/4.1 Padrões ERC.pdf)
 
 ## Roteiros
 ### Roteiros oficiais (criados pelo professor)
-[](roteiros/)
-[](roteiros/)
+[Tor](roteiros/Roteiro Tor.pdf)
+[BitTorrent](roteiros/Roteiro BitTorrent.pdf)
 
 ### Roteiros criados por alunos
-[](roteiros/)
-[](roteiros/)
-[](roteiros/)
+[Programação de Onion Route simulada](roteiros/Construindo+o+próprio+onion+routing.zip)
+[Inserindo e recuperando arquivos no IPFS](roteiros/Roteiro+IPFS.pdf)
+[Explorando conceitos em uma blockchain simples](roteiros/Roteiro+Explorando conceitos em uma blockchain simples.pdf)
