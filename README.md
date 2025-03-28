@@ -51,7 +51,7 @@ As video-aulas estão disponíveis no [youtube](https://www.youtube.com/playlist
 [4e. Universo descentralizado - OAuth + OIDC](slides/4e. Universo descentralizado - OAuth + OIDC.pdf)
 
 [4f. Universo descentralizado - IPFS](slides/4f. Universo descentralizado - IPFS.pdf)
-<details>
+</details>
 <br>
 <br>
 ## Introdução ao Hyperledger Fabric
