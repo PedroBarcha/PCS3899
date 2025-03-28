@@ -56,7 +56,7 @@ As video-aulas estão disponíveis no [youtube](https://www.youtube.com/playlist
 ### Máquina Virtual
 Atualmente, para realizar as atividades de Hyperledger Fabric é necessário utilizar a Máquina Virtual.
 
-1. Baixe o [ZIP](https://www2.larc.usp.br/tmp/vm/hyperledger.zip)
+1. Baixe o [ZIP](http://www2.larc.usp.br/tmp/vm/hyperledger.zip). Caso o navegador alegue um "warning", clique em "avançado" e "continuar".
 
 2. Extraia o ZIP. O resutlado deve ser uma pasta chamada VM com dois arquivos: ubuntu.vdi e ubuntu.vbox.
 
