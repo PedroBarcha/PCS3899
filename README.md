@@ -1,12 +1,15 @@
 # Blockchain, Criptomoedas & Tecnologias Decentralizadas
-Este é o site aberto com o material da disciplina "Blockchain, criptomoedas e tecnologias descentralizadas", oferecida como parte do currículo de Engenharia de Computação da USP desde Ago/2023, e também como uma disciplina aberta para qualquer interessado. Este é um site em contínua evolução, que deve ser atualizado juntamente com atualizações feitas na disciplina oficial: novas video-aulas, slides, testes de revisão, etc.
+Este é o site aberto com o material da disciplina "Blockchain, criptomoedas e tecnologias descentralizadas", oferecida como parte do currículo de Engenharia de Computação da USP desde Ago/2023, e também como uma disciplina aberta para qualquer interessado. Este é um site em contínua evolução, que deve ser atualizado juntamente com atualizações feitas na disciplina oficial: novas video-aulas, slides etc.
 
-Esta disciplina foi construída com o apoio da Decentralization Foundation (https://d24n.org) e da Ripple (por meio da University Blockchain Research Initiative -- https://ripple.com)
+Esta disciplina foi construída com o apoio da [Decentralization Foundation](https://d24n.org) e da [Ripple](https://ripple.com) (por meio da University Blockchain Research Initiative)
 
-[Playlist](https://www.youtube.com/playlist?list=PLcbbqdJgPgcXlRlPNHF2itTotEwr9kckl)
+As video-aulas estão disponíveis no [youtube](https://www.youtube.com/playlist?list=PLcbbqdJgPgcXlRlPNHF2itTotEwr9kckl)
 
 ## Slides das aulas (com as referências)
-...
+[Slide](slides/1a. Intro.pdf)
+[Slides](./slides/1a. Intro.pdf)
+[slidess](slides/"1a. Intro.pdf")
+[aaa](./slides/"1a. Intro.pdf")
 
 ## Introdução ao Hyperledger Fabric
 ...
