@@ -67,7 +67,6 @@ Atualmente, para realizar as atividades de Hyperledger Fabric é necessário uti
 **OBS2**: Ao utilizar a VM, é possível que o script init, introduzido no vídeo 2.2, não execute conforme esperado. Isso pode ocorrer devido a conflitos gerados ao se interromper abruptamente a inicialização dos containers docker. Nesse caso, execute no terminal: `docker system prune --volumes --force &&  docker rmi $(docker images -q)`
 
 <br>
-
 ### Slides dos experimentos (com as referências)
 [1.1 Intro Curso](fabric/1.1 Intro Curso.pdf)
 
@@ -88,6 +87,7 @@ Atualmente, para realizar as atividades de Hyperledger Fabric é necessário uti
 
 [BitTorrent](roteiros/Roteiro BitTorrent.pdf)
 
+<br>
 ### Roteiros criados por alunos
 [Programação de Onion Route simulada](roteiros/Construindo+o+próprio+onion+routing.zip)
 
