@@ -14,49 +14,47 @@ As video-aulas estão disponíveis no [youtube](https://www.youtube.com/playlist
 
 [1a. Intro](slides/1a. Intro.pdf)
 
-[2a. Fundamentos de Criptografia - Serviços de Segurança](slides/2a. Fundamentos de Criptografia - Serviços Segurança)
+[2a. Fundamentos de Criptografia - Serviços de Segurança](slides/2a. Fundamentos de Criptografia - Serviços Segurança.pdf)
 
 [2b. Fundamentos de Criptografia - Criptografia Simétrica](slides/2b. Fundamentos de Criptografia - Criptografia simétrica.pdf)
 
-[2c. Fundamentos de Criptografia - Assinaturas Digitais](slides/2c. Fundamentos de Criptografia - Assinaturas Digitais)
+[2c. Fundamentos de Criptografia - Assinaturas Digitais](slides/2c. Fundamentos de Criptografia - Assinaturas Digitais.pdf)
 
-[2d. Fundamentos de Criptografia - Certificação Digital](slides/2d. Fundamentos de Criptografia - Certificação Digital)
+[2d. Fundamentos de Criptografia - Certificação Digital](slides/2d. Fundamentos de Criptografia - Certificação Digital.pdf)
 
-[2e. Fundamentos de Criptografia - Construções Avançadas](slides/2e. Fundamentos de Criptografia - Construções Avançadas)
+[2e. Fundamentos de Criptografia - Construções Avançadas](slides/2e. Fundamentos de Criptografia - Construções Avançadas.pdf)
 
-[3a. BlockChain sem Hype - Motivacao](slides/3a. BlockChain sem Hype-Motivacao)
+[3a. BlockChain sem Hype - Motivacao](slides/3a. BlockChain sem Hype-Motivacao.pdf)
 
-[3b. BlockChain sem Hype - Blockchains](slides/3b. BlockChain sem Hype-Blockchains)
+[3b. BlockChain sem Hype - Blockchains](slides/3b. BlockChain sem Hype-Blockchains.pdf)
 
-[3c. BlockChain sem Hype - Logs Transparentes (v3)](slides/3c. BlockChain sem Hype-Logs Transparentes - v3)
+[3c. BlockChain sem Hype - Logs Transparentes (v3)](slides/3c. BlockChain sem Hype-Logs Transparentes - v3.pdf)
 
-[3d. BlockChain sem Hype - Considerações](slides/3d. BlockChain sem Hype-Considerações)
+[3d. BlockChain sem Hype - Considerações](slides/3d. BlockChain sem Hype-Considerações.pdf)
 
-[3e. BlockChain sem Hype - Aplicações](slides/3e. BlockChain sem Hype-Aplicações)
+[3e. BlockChain sem Hype - Aplicações](slides/3e. BlockChain sem Hype-Aplicações.pdf)
 
-[3f. BlockChain sem Hype - Aplicacoes, mas não](slides/3f. BlockChain sem Hype-Aplicacoes, mas não)
+[3f. BlockChain sem Hype - Aplicacoes, mas não](slides/3f. BlockChain sem Hype-Aplicacoes, mas não.pdf)
 
-[3g. BlockChain sem Hype - Privacidade](slides/3g. BlockChain sem Hype-Privacidade)
+[3g. BlockChain sem Hype - Privacidade](slides/3g. BlockChain sem Hype-Privacidade.pdf)
 
-[3h. BlockChain sem Hype - Forks](slides/3h. BlockChain sem Hype - Forks)
+[3h. BlockChain sem Hype - Forks](slides/3h. BlockChain sem Hype - Forks.pdf)
 
-[3z. (Bônus) BlockChain sem Hype- Criptomoedas e crimes (v2)](slides/3z. (Bônus) BlockChain sem Hype- Criptomoedas e crimes - v2)
+[3z. (Bônus) BlockChain sem Hype- Criptomoedas e crimes (v2)](slides/3z. (Bônus) BlockChain sem Hype- Criptomoedas e crimes - v2.pdf)
 
-[4a. Universo descentralizado - Tor](slides/4a. Universo descentralizado - Tor)
+[4a. Universo descentralizado - Tor](slides/4a. Universo descentralizado - Tor.pdf)
 
-[4b. Universo descentralizado - Buscas de dados e DHT](slides/4b. Universo descentralizado - Buscas de dados e DHT)
+[4b. Universo descentralizado - Buscas de dados e DHT](slides/4b. Universo descentralizado - Buscas de dados e DHT.pdf)
 
-[4c. Universo descentralizado - Broadcast e Gossip](slides/4c. Universo descentralizado - Broadcast e Gossip)
+[4c. Universo descentralizado - Broadcast e Gossip](slides/4c. Universo descentralizado - Broadcast e Gossip.pdf)
 
-[4d. Universo descentralizado - Bittorrent e Compartilhamento de Arquivos](slides/4d. Universo descentralizado - Bittorrent e Compartilhamento de Arquivos)
+[4d. Universo descentralizado - Bittorrent e Compartilhamento de Arquivos](slides/4d. Universo descentralizado - Bittorrent e Compartilhamento de Arquivos.pdf)
 
-[4e. Universo descentralizado - OAuth + OIDC](slides/4e. Universo descentralizado - OAuth + OIDC)
+[4e. Universo descentralizado - OAuth + OIDC](slides/4e. Universo descentralizado - OAuth + OIDC.pdf)
 
-[4f. Universo descentralizado - IPFS](slides/4f. Universo descentralizado - IPFS)
+[4f. Universo descentralizado - IPFS](slides/4f. Universo descentralizado - IPFS.pdf)
 
 ## Introdução ao Hyperledger Fabric
-...
-
 ### Máquina Virtual
 Atualmente, para realizar as atividades de Hyperledger Fabric é necessário utilizar a Máquina Virtual.
 
