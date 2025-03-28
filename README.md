@@ -51,6 +51,8 @@ As video-aulas estão disponíveis no [youtube](https://www.youtube.com/playlist
 
 [4f. Universo descentralizado - IPFS](slides/4f. Universo descentralizado - IPFS.pdf)
 
+<br>
+<br>
 ## Introdução ao Hyperledger Fabric
 ### Máquina Virtual
 Atualmente, para realizar as atividades de Hyperledger Fabric é necessário utilizar a Máquina Virtual.
@@ -65,7 +67,7 @@ Atualmente, para realizar as atividades de Hyperledger Fabric é necessário uti
 
 **OBS2**: Ao utilizar a VM, é possível que o script init, introduzido no vídeo 2.2, não execute conforme esperado. Isso pode ocorrer devido a conflitos gerados ao se interromper abruptamente a inicialização dos containers docker. Nesse caso, execute no terminal: docker system prune --volumes --force &&  docker rmi $(docker images -q)
 
-
+<br><br>
 ### Slides (com as referências)
 [1.1 Intro Curso](fabric/1.1 Intro Curso.pdf)
 
