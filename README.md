@@ -4,6 +4,16 @@ Este é o site aberto com o material da disciplina "Blockchain, criptomoedas e t
 Esta disciplina foi construída com o apoio da [Decentralization Foundation](https://d24n.org) e da [Ripple](https://ripple.com) (por meio da University Blockchain Research Initiative).
 
 As video-aulas estão disponíveis no [youtube](https://www.youtube.com/playlist?list=PLcbbqdJgPgcXlRlPNHF2itTotEwr9kckl).
+
+<details>
+<summary><h2>See Here</h2></summary>
+  Sometimes with a root user, things might not work properly. So creating a new user with sudo permission is a better option.
+</details>
+
+opaopa
+## oi
+popaopa
+
 <details><summary><h2>Slides</h2></summary>
 [1a. Intro](slides/1a. Intro.pdf)
 
