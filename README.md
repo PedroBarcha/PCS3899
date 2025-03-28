@@ -16,7 +16,7 @@ As video-aulas estão disponíveis no [youtube](https://www.youtube.com/playlist
 
 [2a. Fundamentos de Criptografia - Serviços de Segurança](slides/2a. Fundamentos de Criptografia - Serviços Segurança)
 
-[2b. Fundamentos de Criptografia - Criptografia simétrica](slides/2b. Fundamentos de Criptografia - Criptografia simétrica)
+[2b. Fundamentos de Criptografia - Criptografia Simétrica](slides/2b. Fundamentos de Criptografia - Criptografia simétrica.pdf)
 
 [2c. Fundamentos de Criptografia - Assinaturas Digitais](slides/2c. Fundamentos de Criptografia - Assinaturas Digitais)
 
