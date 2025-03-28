@@ -86,7 +86,6 @@ Atualmente, para realizar as atividades de Hyperledger Fabric é necessário uti
 [Tor](roteiros/Roteiro Tor.pdf)
 
 [BitTorrent](roteiros/Roteiro BitTorrent.pdf)
-
 <br>
 ### Roteiros criados por alunos
 [Programação de Onion Route simulada](roteiros/Construindo+o+próprio+onion+routing.zip)
