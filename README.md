@@ -6,7 +6,8 @@ Esta disciplina foi construída com o apoio da [Decentralization Foundation](htt
 As video-aulas estão disponíveis no [youtube](https://www.youtube.com/playlist?list=PLcbbqdJgPgcXlRlPNHF2itTotEwr9kckl).
 <br>
 <br>
-## Slides das aulas (com as referências)
+<details>
+<summary><h2>Slides das aulas (com as referências)</h2><summary>
 [1a. Intro](slides/1a. Intro.pdf)
 
 [1b. Intro - Classificação P2P](slides/1b. Intro - Classificação P2P.pdf)
@@ -50,6 +51,7 @@ As video-aulas estão disponíveis no [youtube](https://www.youtube.com/playlist
 [4e. Universo descentralizado - OAuth + OIDC](slides/4e. Universo descentralizado - OAuth + OIDC.pdf)
 
 [4f. Universo descentralizado - IPFS](slides/4f. Universo descentralizado - IPFS.pdf)
+<details>
 <br>
 <br>
 ## Introdução ao Hyperledger Fabric
