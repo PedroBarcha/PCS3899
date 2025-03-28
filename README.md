@@ -4,67 +4,52 @@ Este é o site aberto com o material da disciplina "Blockchain, criptomoedas e t
 Esta disciplina foi construída com o apoio da [Decentralization Foundation](https://d24n.org) e da [Ripple](https://ripple.com) (por meio da University Blockchain Research Initiative).
 
 As video-aulas estão disponíveis no [youtube](https://www.youtube.com/playlist?list=PLcbbqdJgPgcXlRlPNHF2itTotEwr9kckl).
-
-<details>
-  <summary>images</summary>
-
-![Image1](https://gist.github.com/assets/97279763/4eb87d13-17b1-4384-bfc6-ba3369bc7223)
-
-![Image2](https://gist.github.com/assets/97279763/4eb87d13-17b1-4384-bfc6-ba3369bc7223)
-
-</details>
-
 <br>
 <br>
 ## Slides das aulas (com as referências)
-<details>
-  <summary><i>Detalhes</i></summary>
+[1a. Intro](slides/1a. Intro.pdf)
 
-![1a. Intro](slides/1a. Intro.pdf)
+[1b. Intro - Classificação P2P](slides/1b. Intro - Classificação P2P.pdf)
 
-![1b. Intro - Classificação P2P](slides/1b. Intro - Classificação P2P.pdf)
+[2a. Fundamentos de Criptografia - Serviços de Segurança](slides/2a. Fundamentos de Criptografia - Serviços Segurança.pdf)
 
-![2a. Fundamentos de Criptografia - Serviços de Segurança](slides/2a. Fundamentos de Criptografia - Serviços Segurança.pdf)
+[2b. Fundamentos de Criptografia - Criptografia Simétrica](slides/2b. Fundamentos de Criptografia - Criptografia simétrica.pdf)
 
-![2b. Fundamentos de Criptografia - Criptografia Simétrica](slides/2b. Fundamentos de Criptografia - Criptografia simétrica.pdf)
+[2c. Fundamentos de Criptografia - Assinaturas Digitais](slides/2c. Fundamentos de Criptografia - Assinaturas Digitais.pdf)
 
-![2c. Fundamentos de Criptografia - Assinaturas Digitais](slides/2c. Fundamentos de Criptografia - Assinaturas Digitais.pdf)
+[2d. Fundamentos de Criptografia - Certificação Digital](slides/2d. Fundamentos de Criptografia - Certificação Digital.pdf)
 
-![2d. Fundamentos de Criptografia - Certificação Digital](slides/2d. Fundamentos de Criptografia - Certificação Digital.pdf)
+[2e. Fundamentos de Criptografia - Construções Avançadas](slides/2e. Fundamentos de Criptografia - Construções Avançadas.pdf)
 
-![2e. Fundamentos de Criptografia - Construções Avançadas](slides/2e. Fundamentos de Criptografia - Construções Avançadas.pdf)
+[3a. Blockchain sem Hype - Motivacao](slides/3a. BlockChain sem Hype-Motivacao.pdf)
 
-![3a. Blockchain sem Hype - Motivacao](slides/3a. BlockChain sem Hype-Motivacao.pdf)
+[3b. Blockchain sem Hype - Blockchains](slides/3b. BlockChain sem Hype-Blockchains.pdf)
 
-![3b. Blockchain sem Hype - Blockchains](slides/3b. BlockChain sem Hype-Blockchains.pdf)
+[3c. Blockchain sem Hype - Logs Transparentes (v3)](slides/3c. BlockChain sem Hype-Logs Transparentes - v3.pdf)
 
-![3c. Blockchain sem Hype - Logs Transparentes (v3)](slides/3c. BlockChain sem Hype-Logs Transparentes - v3.pdf)
+[3d. Blockchain sem Hype - Considerações](slides/3d. BlockChain sem Hype-Considerações.pdf)
 
-![3d. Blockchain sem Hype - Considerações](slides/3d. BlockChain sem Hype-Considerações.pdf)
+[3e. Blockchain sem Hype - Aplicações](slides/3e. BlockChain sem Hype-Aplicações.pdf)
 
-![3e. Blockchain sem Hype - Aplicações](slides/3e. BlockChain sem Hype-Aplicações.pdf)
+[3f. Blockchain sem Hype - Aplicacoes, mas não](slides/3f. BlockChain sem Hype-Aplicacoes, mas não.pdf)
 
-![3f. Blockchain sem Hype - Aplicacoes, mas não](slides/3f. BlockChain sem Hype-Aplicacoes, mas não.pdf)
+[3g. Blockchain sem Hype - Privacidade](slides/3g. BlockChain sem Hype-Privacidade.pdf)
 
-![3g. Blockchain sem Hype - Privacidade](slides/3g. BlockChain sem Hype-Privacidade.pdf)
+[3h. Blockchain sem Hype - Forks](slides/3h. BlockChain sem Hype - Forks.pdf)
 
-![3h. Blockchain sem Hype - Forks](slides/3h. BlockChain sem Hype - Forks.pdf)
+[3z. (Bônus) Blockchain sem Hype- Criptomoedas e crimes (v2)](slides/3z. (Bônus) BlockChain sem Hype- Criptomoedas e crimes - v2.pdf)
 
-![3z. (Bônus) Blockchain sem Hype- Criptomoedas e crimes (v2)](slides/3z. (Bônus) BlockChain sem Hype- Criptomoedas e crimes - v2.pdf)
+[4a. Universo descentralizado - Tor](slides/4a. Universo descentralizado - Tor.pdf)
 
-![4a. Universo descentralizado - Tor](slides/4a. Universo descentralizado - Tor.pdf)
+[4b. Universo descentralizado - Buscas de dados e DHT](slides/4b. Universo descentralizado - Buscas de dados e DHT.pdf)
 
-![4b. Universo descentralizado - Buscas de dados e DHT](slides/4b. Universo descentralizado - Buscas de dados e DHT.pdf)
+[4c. Universo descentralizado - Broadcast e Gossip](slides/4c. Universo descentralizado - Broadcast e Gossip.pdf)
 
-![4c. Universo descentralizado - Broadcast e Gossip](slides/4c. Universo descentralizado - Broadcast e Gossip.pdf)
+[4d. Universo descentralizado - Bittorrent e Compartilhamento de Arquivos](slides/4d. Universo descentralizado - Bittorrent e Compartilhamento de Arquivos.pdf)
 
-![4d. Universo descentralizado - Bittorrent e Compartilhamento de Arquivos](slides/4d. Universo descentralizado - Bittorrent e Compartilhamento de Arquivos.pdf)
+[4e. Universo descentralizado - OAuth + OIDC](slides/4e. Universo descentralizado - OAuth + OIDC.pdf)
 
-![4e. Universo descentralizado - OAuth + OIDC](slides/4e. Universo descentralizado - OAuth + OIDC.pdf)
-
-![4f. Universo descentralizado - IPFS](slides/4f. Universo descentralizado - IPFS.pdf)
-
-</details>
+[4f. Universo descentralizado - IPFS](slides/4f. Universo descentralizado - IPFS.pdf)
 <br>
 <br>
 ## Introdução ao Hyperledger Fabric
