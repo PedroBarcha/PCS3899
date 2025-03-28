@@ -8,7 +8,11 @@ As video-aulas estão disponíveis no [youtube](https://www.youtube.com/playlist
 ## Slides das aulas (com as referências)
 [1a. Intro](slides/1a. Intro.pdf)
 
+[1a. Intro](slides/1a. Intro.pdf)
+
 [1b. Intro - Classificação P2P](slides/1b. Intro - Classificação P2P.pdf)
+
+[1a. Intro](slides/1a. Intro.pdf)
 
 [2a. Fundamentos de Criptografia - Serviços de Segurança](slides/2a. Fundamentos de Criptografia - Serviços Segurança)
 
