@@ -67,7 +67,7 @@ Atualmente, para realizar as atividades de Hyperledger Fabric é necessário uti
 **OBS2**: Ao utilizar a VM, é possível que o script init, introduzido no vídeo 2.2, não execute conforme esperado. Isso pode ocorrer devido a conflitos gerados ao se interromper abruptamente a inicialização dos containers docker. Nesse caso, execute no terminal: `docker system prune --volumes --force &&  docker rmi $(docker images -q)`
 
 
-### Slides (com as referências)
+### Slides dos experimentos (com as referências)
 [1.1 Intro Curso](fabric/1.1 Intro Curso.pdf)
 
 [1.2 Intro HLF](fabric/1.2 Intro HLF.pdf)
