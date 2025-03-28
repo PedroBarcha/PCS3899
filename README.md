@@ -5,6 +5,7 @@ Esta disciplina foi construída com o apoio da [Decentralization Foundation](htt
 
 As video-aulas estão disponíveis no [youtube](https://www.youtube.com/playlist?list=PLcbbqdJgPgcXlRlPNHF2itTotEwr9kckl).
 <br>
+<br>
 ## Slides das aulas (com as referências)
 [1a. Intro](slides/1a. Intro.pdf)
 
@@ -60,17 +61,22 @@ Atualmente, para realizar as atividades de Hyperledger Fabric é necessário uti
 
 3. Siga as instruções: https://www.youtube.com/watch?v=4aKbthqxKEY&list=PLcbbqdJgPgcXlRlPNHF2itTotEwr9kckl&index=23
 
-*OBS*: Para usuários de *Mac com chip M2*, talvez ainda não haja suporte oficial do VirtualBox (a verificar). Neste caso, o recomendado é utilizar outra máquina.
+**OBS**: Para usuários de **Mac com chip M2**, talvez ainda não haja suporte oficial do VirtualBox (a verificar). Neste caso, o recomendado é utilizar outra máquina.
 
-*OBS2*: Ao utilizar a VM, é possível que o script init, introduzido no vídeo 2.2, não execute conforme esperado. Isso pode ocorrer devido a conflitos gerados ao se interromper abruptamente a inicialização dos containers docker. Nesse caso, execute no terminal: docker system prune --volumes --force &&  docker rmi $(docker images -q)
+**OBS2**: Ao utilizar a VM, é possível que o script init, introduzido no vídeo 2.2, não execute conforme esperado. Isso pode ocorrer devido a conflitos gerados ao se interromper abruptamente a inicialização dos containers docker. Nesse caso, execute no terminal: docker system prune --volumes --force &&  docker rmi $(docker images -q)
 
 
 ### Slides (com as referências)
 [1.1 Intro Curso](fabric/1.1 Intro Curso.pdf)
+
 [1.2 Intro HLF](fabric/1.2 Intro HLF.pdf)
+
 [2.1 Instalação](fabric/2.1 Instalação.pdf)
+
 [3.1 Chaincode - Contratos Inteligentes](fabric/3.1 Chaincode - Contratos Inteligentes.pdf)
+
 [3.2 - API com Node.js](fabric/3.2 - API com Node.js.pdf)
+
 [4.1 Padrões ERC](fabric/4.1 Padrões ERC.pdf)
 
 ## Roteiros
